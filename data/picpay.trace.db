@@ -7,3 +7,9 @@ CREATE UNIQUE INDEX NOT EXISTS cpf_idx ON WALLETS (CPF) [42001-224]
 2024-03-27 18:49:40.336517-03:00 jdbc[3]: exception
 org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "CREATE UNIQUE INDEX [*]NOT EXISTS cpf_idx ON WALLETS (CPF)"; expected "identifier"; SQL statement:
 CREATE UNIQUE INDEX NOT EXISTS cpf_idx ON WALLETS (CPF) [42001-224]
+2024-03-27 18:53:00.232706-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "CREATE UNIQUE INDEX [*]NOT EXISTS cpf_idx ON WALLETS (CPF)"; expected "identifier"; SQL statement:
+CREATE UNIQUE INDEX NOT EXISTS cpf_idx ON WALLETS (CPF) [42001-224]
+2024-03-27 19:00:53.708176-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "CREATE UNIQUE INDEX [*]NOT EXISTS cpf_idx ON WALLETS (CPF)"; expected "identifier"; SQL statement:
+CREATE UNIQUE INDEX NOT EXISTS cpf_idx ON WALLETS (CPF) [42001-224]
